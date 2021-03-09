@@ -56,16 +56,25 @@
 
 
 # if condition
-print('HOŞGELDİNİZZZZ!')
-userName = 'Semih'
-password = 'hello123'
+# print('HOŞGELDİNİZZZZ!')
+# userName = 'Semih'
+# password = 'hello123'
 
-inputUserName = input('Kullanıcı Adınızı Giriniz: ')
-inputPassword = input('Şifrenizi Giriniz:')
+# inputUserName = input('Kullanıcı Adınızı Giriniz: ')
+# inputPassword = input('Şifrenizi Giriniz:')
 
-if userName != inputUserName and password == inputPassword:
-    print('Kullanıcı adınız hatali')
-elif userName == inputUserName and password != inputPassword:
-        print('Şifre Hatalı')
-elif userName == inputUserName and password == inputPassword:
-        print('Tebrikler Giriş Yaptınız')
+# if userName != inputUserName and password == inputPassword:
+#     print('Kullanıcı adınız hatali')
+# elif userName == inputUserName and password != inputPassword:
+#         print('Şifre Hatalı')
+# elif userName == inputUserName and password == inputPassword:
+#         print('Tebrikler Giriş Yaptınız')
+
+# while
+# num = 0
+# while num < 10:
+#     if num % 2 == 0:
+#         print('Çift Rakam {}'.format(num))
+#     else:
+#         print('Tek Rakam {}'.format(num))
+#     num += 1
